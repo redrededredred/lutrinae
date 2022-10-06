@@ -1,2 +1,4 @@
-# lutrinae
-very basic terraria fishing bot
+# *lutrinae*
+
+#very basic terraria fishing bot
+
