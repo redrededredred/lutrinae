@@ -7,7 +7,10 @@ class Bot:
         self.bop = "bop.png"
         self.bite = "bite.png"
         self.fish_caught = 0
+        self.bait = 0
     def fish(self):
+
+        # check bait count here
 
         while not keyboard.is_pressed("q"):
             print("Exit anytime by pressing: \t \"Q\"")
